@@ -4,6 +4,9 @@ This is a simple test app demonstrating how to call an [Azure AI Foundry Agent S
 
 The app sends a message to a configured agent endpoint and prints the response. It is intended for internal testing purposes only.
 
+> [!CAUTION]
+> The service often returns a **500** error; this is being investigated.
+
 ---
 
 ## 🛠️ Prerequisites
