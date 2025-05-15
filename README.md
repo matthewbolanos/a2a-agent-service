@@ -6,6 +6,7 @@ The app sends a message to a configured agent endpoint and prints the response. 
 
 > [!CAUTION]
 > The service often returns a **500** error; this is being investigated.
+> In the meantime, use this tunnel as the endpoint URL: `https://1936s7pr-5000.usw2.devtunnels.ms/workflows/a2a/v1.0/subscriptions/921496dc-987f-410f-bd57-426eb2611356/resourceGroups/ai-agents-karthik-eu/providers/Microsoft.MachineLearningServices/workspaces/project-demo-eu-fw7g/agents/asst_gzaBKcQzu4G7Dx5FxT6Pk9Wk`
 
 ---
 
